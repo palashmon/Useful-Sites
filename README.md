@@ -1,2 +1,7 @@
 # Useful-Sites
-Some useful sites related to front-end development
+Some useful sites related to front-end development:-
+
+- [Frontend Masters](https://github.com/FrontendMasters)
+- [Front-End Developer Handbook 2016 - JavaScript Tools](https://www.frontendhandbook.com/tools/js.html)
+- [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
+- [Trending JS Repositories on GitHub This Month](https://github.com/trending?l=javascript&since=monthly)
