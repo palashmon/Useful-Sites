@@ -15,3 +15,6 @@ Some useful sites related to front-end development:-
     - [API Link 2](https://uinames.com/api/?amount=10)
   - A free, open-source API for generating random user data [Random User Generator](https://randomuser.me/)
     - [API Link](https://randomuser.me/api/)
+
+- For dummy smtp email testing in development environment
+  - [Mailtrap](https://mailtrap.io/)
