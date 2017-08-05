@@ -20,10 +20,12 @@ Some useful sites/books/tools related to front-end development:-
 - [Get Started with Analyzing Network Performance in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
 - [Trending JS Repositories on GitHub This Month](https://github.com/trending?l=javascript&since=monthly) - Find best repo to contribute
 - [Mailtrap](https://mailtrap.io/) - For dummy smtp email testing in development environment
+- [Paul's shell, git, etc config files](https://github.com/paulirish/dotfiles)
   
 ## Full Collections
 - [A collection of awesome browser-side JavaScript libraries](https://github.com/sorrycc/awesome-javascript#awesome-javascript-)
 - [List of public JSON APIs for use in web development](https://github.com/toddmotto/public-apis#public-apis-)
+- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#100-free-resources-for-learning-full-stack-web-development)
   
 ## Contributing
 
