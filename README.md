@@ -28,6 +28,14 @@ Some useful sites/books/tools related to front-end development:-
 - For dummy smtp email testing in development environment
   - [Mailtrap](https://mailtrap.io/)
   
+## Contribute
+
+Please do share links of the resources that you have found useful in your journey of front-end development.
+
+1. Fork this repo.
+2. Add your links under proper group like **Trainings**, **Tools**, etc. or create a new group, if needed.
+3. Send a pull request.
+4. You are awesome!
 
 
 
